@@ -11,7 +11,7 @@ It is a simple two-steps process
 
 You will need Java installed.
 
-* AdoptOpenJDK.net: https://adoptopenjdk.net/
+* AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
 ## Download
 

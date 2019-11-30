@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: ac2ofx - OFX Converter
 description: A tool to convert Apple Card Statement to OFX
 github:

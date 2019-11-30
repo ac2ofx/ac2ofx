@@ -1,4 +1,6 @@
 ## Apple Card spending history as OFX file
+"Can I import my Apple Card transactions into my financial management program?".
+Yes, you can.
 ac2ofx makes it possible to import your Apple Card transactions into your financial management program such as Quicken, Moneydance, Microsoft Money ...
 
 It is a simple two-steps process
@@ -13,8 +15,15 @@ You will need Java installed on your machine.
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
 ## Download
+* [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/)
 
 ## Install
+* Unzip ac2ofx-1.0.0.RELEASE.zip
+* Go to folder ac2ofx-1.0.0.RELEASE
+* Double-click on ac2ofx-1.0.0.RELEASE-exec.jar OR
+````
+java -jar ac2ofx-1.0.0.RELEASE-exec.jar
+````
 
 ## Obtain a key
 * Send email to ac2ofx@gmail.com.

@@ -33,7 +33,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 
 ## Obtain a key
 * Send email to ac2ofx@gmail.com.
-* To install the key, simply drag-and-drop file license.txt file onto ac2ofx window. 
+* To install the key, simply drag-and-drop file license.txt file onto the ac2ofx window. 
 
 ## To download Apple Card PDF statements
 * Open the Wallet app on iPhone
@@ -43,7 +43,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 * Select “Download PDF Statement”
 
 ## To generate an OFX file
-* Drag-and-drop your PDF statement file onto ac2ofx window.
+* Drag-and-drop your PDF statement file onto the ac2ofx window.
 * ![Tool Window Image](/image01.png)
 * A new OFX file will be generated and saved in the same folder as the PDF file.
 * For example, if the PDF file is named December-2019.pdf, then the OFX file will be name December-2019.ofx

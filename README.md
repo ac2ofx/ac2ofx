@@ -11,7 +11,7 @@ It is a simple two-steps process
 * Then import the OFX file into your financial management program.
 
 You can download and eval the tool to see if it fits your need.
-In eval mode, ac2ofx is fully functinal but limits the number of transactions in the OFX file (5 transations). 
+In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX file (5 transations). 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
 ## Prerequisite
@@ -31,6 +31,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 
 ## Obtain a key
 * Send email to ac2ofx@gmail.com.
+* To install the key, simply drag-and-drop file license.txt file ac2ofx window. 
 
 ## To download Apple Card PDF statements
 * Open the Wallet app on iPhone
@@ -40,7 +41,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 * Select “Download PDF Statement”
 
 ## To generate an OFX file
-* Drag-and-drop your PDF statement file onto ac2ofx window
+* Drag-and-drop your PDF statement file onto ac2ofx window.
 * ![Tool Window Image](/image01.png)
 * A new OFX file will be generated and saved in the same folder as the PDF file.
 * For example, if the PDF file is named December-2019.pdf, then the OFX file will be name December-2019.ofx

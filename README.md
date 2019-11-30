@@ -1,6 +1,8 @@
 ## Apple Card spending history as OFX file
 "Can I import my Apple Card transactions into my financial management program?".
+
 Yes, you can.
+
 ac2ofx makes it possible to import your Apple Card transactions into your financial management program such as Quicken, Moneydance, Microsoft Money ...
 
 It is a simple two-steps process

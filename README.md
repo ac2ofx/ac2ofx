@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Import your Apple Card transactions?
 
-You can use the [editor on GitHub](https://github.com/ac2ofx/ac2ofx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ac2ofx makes it possible to import your Apple Card transactions into your personal financial software such as Quicken, Moneydance, Microsoft Money ... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Download
+
+## Install
+
+## Convert
+
 

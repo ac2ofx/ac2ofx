@@ -33,7 +33,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 
 ## Obtain a key
 * Send email to ac2ofx@gmail.com.
-* To install the key, simply drag-and-drop file license.txt file ac2ofx window. 
+* To install the key, simply drag-and-drop file license.txt file onto ac2ofx window. 
 
 ## To download Apple Card PDF statements
 * Open the Wallet app on iPhone

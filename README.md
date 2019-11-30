@@ -27,7 +27,8 @@ You will need Java installed on your machine.
 * Select “Download PDF Statement”
 
 ## To generate an OFX file
-* Drag-and-drop your PDF statement file onto ac2ofx window ![Tool Window Image](/image01.png)
+* Drag-and-drop your PDF statement file onto ac2ofx window
+* ![Tool Window Image](/image01.png)
 * A new OFX file will be generated and saved in the same folder as the PDF file.
 * For example, if the PDF file is named December-2019.pdf, then the OFX file will be name December-2019.ofx
 

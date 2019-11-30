@@ -1,5 +1,4 @@
 ## Apple Card spending history as OFX file
-
 ac2ofx makes it possible to import your Apple Card transactions into your financial management program such as Quicken, Moneydance, Microsoft Money ...
 
 It is a simple two-steps process
@@ -7,18 +6,20 @@ It is a simple two-steps process
 * Use ac2ofx to convert the "Monthly PDF Statement" into an OFX file.
 * Then import the OFX file into your financial management program.
 
+In eval mode, ac2ofx limits the number of transactions in the OFX file (5 transations). You can obtain a key to remove this limit. The cost is $12.99.
+
 ## Prerequisite
-
 You will need Java installed on your machine.
-
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
 ## Download
 
 ## Install
 
-## To download Apple Card PDF statements
+## Obtain a key
+* Send email to ac2ofx@gmail.com.
 
+## To download Apple Card PDF statements
 * Open the Wallet app on iPhone
 * Tap your Apple Card
 * Tap the “Total Balance” square
@@ -26,11 +27,9 @@ You will need Java installed on your machine.
 * Select “Download PDF Statement”
 
 ## To generate an OFX file
-
 * Drag-and-drop your PDF statement file onto ac2ofx window ![Tool Window Image](/image01.png)
 * A new OFX file will be generated and saved in the same folder as the PDF file.
 * For example, if the PDF file is named December-2019.pdf, then the OFX file will be name December-2019.ofx
 
 ## To import OFX file
-
 Follow your financial management program instruction to import OFX.

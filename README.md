@@ -11,7 +11,9 @@ It is a simple two-steps process
 * Then import the OFX file into your financial management program.
 
 You can download and eval the tool to see if it fits your need.
+
 In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX file (5 transations). 
+
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
 ## Prerequisite

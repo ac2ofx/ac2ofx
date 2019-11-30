@@ -52,7 +52,6 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 Follow your financial management program instruction to import OFX.
 
 ## Help
-
 * Send email to ac2ofx@gmail.com.
 * Or log an issue at [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 

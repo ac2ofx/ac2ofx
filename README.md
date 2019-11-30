@@ -20,10 +20,10 @@ You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2
 You will need Java installed on your machine.
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
-## Download
+## Download ac2ofx
 * [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/)
 
-## Install
+## Install ac2ofx
 * Unzip ac2ofx-1.0.0.RELEASE.zip
 * Go to folder ac2ofx-1.0.0.RELEASE
 * Double-click on ac2ofx-1.0.0.RELEASE-exec.jar OR

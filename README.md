@@ -55,3 +55,6 @@ Follow your financial management program instruction to import OFX.
 * Send email to ac2ofx@gmail.com.
 * Or log an issue at [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 
+### Trademarks notice
+
+All product names, trademarks and registered trademarks are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.

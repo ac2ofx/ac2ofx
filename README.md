@@ -52,6 +52,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 Follow your financial management program instruction to import OFX.
 * [Quicken](quicken.md)
 * [Moneydance](moneydance.md)
+* [Microsoft Money](msmoney.md)
 
 ## Help
 * Send email to ac2ofx@gmail.com.

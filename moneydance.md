@@ -6,3 +6,5 @@ Menu
 File -> Import -> then use file brower to select an OFX file
 ````
 
+![moneydance-import.png](/moneydance-import.png)
+

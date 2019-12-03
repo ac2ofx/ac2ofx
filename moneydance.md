@@ -3,7 +3,7 @@
 Menu
 
 ````
-File -> Import -> then use file brower to select an OFX file
+File -> Import -> then use file brower to select an OFX/QFX file
 ````
 
 ![moneydance-import.png](/moneydance-import.png)

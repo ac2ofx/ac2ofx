@@ -1,4 +1,4 @@
-## Apple Card spending history as OFX file
+## Apple Card spending history as OFX/QFX file
 "Can I import my Apple Card transactions into my financial management program?".
 
 Yes, you can.
@@ -7,12 +7,12 @@ ac2ofx makes it possible to import your Apple Card transactions into your financ
 
 It is a simple two-steps process
 
-* Use ac2ofx to convert the "Monthly PDF Statement" into an OFX file.
-* Then import the OFX file into your financial management program.
+* Use ac2ofx to convert the "Monthly PDF Statement" into an OFX/QFX file.
+* Then import the OFX/QFX file into your financial management program.
 
 You can download and eval the tool to see if it fits your need.
 
-In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX file (5 transations). 
+In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX/QFX file (5 transations). 
 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
@@ -42,14 +42,14 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 * Choose the month of the statement you want
 * Select “Download PDF Statement”
 
-## To generate an OFX file
+## To generate an OFX/QFX file
 * Drag-and-drop your PDF statement file onto the ac2ofx window.
 * ![Tool Window Image](/image01.png)
-* A new OFX file will be generated and saved in the same folder as the PDF file.
-* For example, if the PDF file is named December-2019.pdf, then the OFX file will be name December-2019.ofx
+* A new OFX/QFX file will be generated and saved in the same folder as the PDF file.
+* For example, if the PDF file is named December-2019.pdf, then the OFX/QFX file will be name December-2019.ofx December-2019.qfx
 
-## To import OFX file
-Follow your financial management program instruction to import OFX.
+## To import OFX/QFX file
+Follow your financial management program instruction to import OFX/QFX.
 * [Quicken](quicken.md)
 * [Moneydance](moneydance.md)
 * [Microsoft Money](msmoney.md)

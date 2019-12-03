@@ -46,7 +46,7 @@ java -jar ac2ofx-1.0.1.RELEASE-exec.jar
 * Drag-and-drop your PDF statement file onto the ac2ofx window.
 * ![Tool Window Image](/image01.png)
 * A new OFX/QFX file will be generated and saved in the same folder as the PDF file.
-* For example, if the PDF file is named December-2019.pdf, then the OFX/QFX file will be name December-2019.ofx December-2019.qfx
+* For example, if the PDF file is named December-2019.pdf, then the OFX/QFX file will be named December-2019.ofx and December-2019.qfx
 
 ## To import OFX/QFX file
 Follow your financial management program instruction to import OFX/QFX.

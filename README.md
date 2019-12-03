@@ -50,6 +50,7 @@ java -jar ac2ofx-1.0.0.RELEASE-exec.jar
 
 ## To import OFX file
 Follow your financial management program instruction to import OFX.
+* [Quicken](quicken.md)
 
 ## Help
 * Send email to ac2ofx@gmail.com.

@@ -24,11 +24,11 @@ You will need Java installed on your machine.
 * [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/)
 
 ## Install ac2ofx
-* Unzip ac2ofx-1.0.1.RELEASE.zip
-* Go to folder ac2ofx-1.0.1.RELEASE
-* Double-click on ac2ofx-1.0.1.RELEASE-exec.jar OR
+* Unzip ac2ofx-1.0.2.RELEASE.zip
+* Go to folder ac2ofx-1.0.2.RELEASE
+* Double-click on ac2ofx-1.0.2.RELEASE-exec.jar OR
 ````
-java -jar ac2ofx-1.0.1.RELEASE-exec.jar
+java -jar ac2ofx-1.0.2.RELEASE-exec.jar
 ````
 
 ## Obtain a key

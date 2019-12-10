@@ -16,18 +16,18 @@ You can download and eval the tool to see if it fits your need.
 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
-## Online version
-If you prefer to use an online version, instead of the offline/standalone Java version, see 
-[this note](web.md).
+There are two versions
+* Offline/standalone Java version which requires Java to be installed.
+* [Online version](web.md)
 
-## Prerequisite
+## Prerequisite for standalone version
 You will need Java installed on your machine.
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
-## Download ac2ofx
+## Download ac2ofx standalone version
 * [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/)
 
-## Install ac2ofx
+## Install ac2ofx standalone version
 * Unzip ac2ofx-1.0.2.RELEASE.zip
 * Go to folder ac2ofx-1.0.2.RELEASE
 * Double-click on ac2ofx-1.0.2.RELEASE-exec.jar OR
@@ -46,7 +46,7 @@ java -jar ac2ofx-1.0.2.RELEASE-exec.jar
 * Choose the month of the statement you want
 * Select “Download PDF Statement”
 
-## To generate an OFX/QFX file
+## To generate an OFX/QFX file using standalone version
 * Drag-and-drop your PDF statement file onto the ac2ofx window.
 * ![Tool Window Image](/image01.png)
 * A new OFX/QFX file will be generated and saved in the same folder as the PDF file.

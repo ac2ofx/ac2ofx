@@ -22,5 +22,5 @@ After login,
 * If you have a license key, use Browse… button to select your license.txt file and click on the Convert button to activate the key.
 
 ### Logout
-Click Logout, to logout, all files from current session will be deleted.
+Click Logout to logout. All files from current session will be deleted.
 

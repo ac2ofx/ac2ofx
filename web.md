@@ -27,7 +27,6 @@ Click Logout to logout. All files from current session will be deleted.
 
 ## Obtain a key
 * Send email to ac2ofx@gmail.com.
-* To install the key, simply drag-and-drop file license.txt file onto the ac2ofx window. 
 
 ## To download Apple Card PDF statements
 * Open the Wallet app on iPhone

@@ -16,6 +16,10 @@ You can download and eval the tool to see if it fits your need.
 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
+## Online version
+If you prefer to use an online version, instead of the offline/standalone Java version, see 
+[this note](web.md).
+
 ## Prerequisite
 You will need Java installed on your machine.
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 

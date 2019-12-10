@@ -15,6 +15,7 @@ It is a simple two-steps process
 
 ### Login
 * Username/password: ac2ofx/ac2ofx
+* Though it is a common username/password, each login will have its own session and data will be kept separatedly.
 
 After login,
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.

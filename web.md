@@ -10,14 +10,14 @@ It is a simple two-steps process
 * Use ac2ofx to convert the "Monthly PDF Statement" into an OFX/QFX file.
 * Then import the OFX/QFX file into your financial management program.
 
-### Online version
+## Online version
 * URL: [https://ac2ofx.herokuapp.com/](https://ac2ofx.herokuapp.com/)
 
-### Login
+## Login
 * Username/password: ac2ofx/ac2ofx
 * Though it is a common username/password, each login will have its own session and data will be kept separatedly.
 
-## To generate an OFX/QFX file using standalone version
+## To generate an OFX/QFX file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.
 * In eval mode (no license key), we generate a fully functional OFX/QFX file, so that you can evaluate to see if this tool fits your need (with a limit of total 5 transactions) If you are interested in purchase a license key, please send email to ac2ofx@gmail.com.
 * If you have a license key, use Browse… button to select your license.txt file and click on the Convert button to activate the key.

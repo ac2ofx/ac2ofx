@@ -22,7 +22,7 @@ It is a simple two-steps process
 * In eval mode (no license key), we generate a fully functional OFX/QFX file, so that you can evaluate to see if this tool fits your need (with a limit of total 5 transactions) If you are interested in purchase a license key, please send email to ac2ofx@gmail.com.
 * If you have a license key, use Browse… button to select your license.txt file and click on the Convert button to activate the key.
 
-### Logout
+## Logout
 Click Logout to logout. All files from current session will be deleted.
 
 ## Obtain a key

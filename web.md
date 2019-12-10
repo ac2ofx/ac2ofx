@@ -11,7 +11,7 @@ It is a simple two-steps process
 * Then import the OFX/QFX file into your financial management program.
 
 ### Online version
-* Url: [https://cf-ac2ofx.cfapps.io/login](https://cf-ac2ofx.cfapps.io/login)
+* URL: [https://cf-ac2ofx.cfapps.io/login](https://cf-ac2ofx.cfapps.io/login)
 
 ### Login
 * Username/password: ac2ofx/ac2ofx

@@ -12,6 +12,7 @@ It is a simple two-steps process
 
 ## Online version
 * URL: [https://ac2ofx.herokuapp.com/](https://ac2ofx.herokuapp.com/)
+* Offline version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Login
 * Username/password: ac2ofx/ac2ofx

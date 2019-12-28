@@ -36,6 +36,7 @@ java -jar ac2ofx-1.0.3.RELEASE-exec.jar
 ````
 
 ## Obtain a key
+* The cost is $12.99.
 * Send email to ac2ofx@gmail.com.
 * To install the key, simply drag-and-drop file license.txt file onto the ac2ofx window. 
 

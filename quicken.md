@@ -1,4 +1,4 @@
-## Import OFX to Quicken
+## Import QFX/OFX to Quicken
 
 Menu
 

@@ -11,7 +11,7 @@ It is a simple two-steps process
 * Then import the OFX/QFX file into your financial management program.
 
 ## Online version
-* URL: [http://app.ac2ofx.com/login](http://app.ac2ofx.com/login). Username/password: ac2ofx/ac2ofx
+* URL: [https://ac2ofx.herokuapp.com/login](https://ac2ofx.herokuapp.com/login). Username/password: ac2ofx/ac2ofx
 * Offline version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Login

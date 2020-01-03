@@ -35,6 +35,9 @@ You will need Java installed on your machine.
 java -jar ac2ofx-1.0.4.RELEASE-exec.jar
 ````
 
+## Problems?
+If you have any problems with downloading or starting the program, please send me an email at ac2ofx@gmail.com.
+
 ## Obtain a key
 * The cost is $12.99.
 * Send email to ac2ofx@gmail.com.

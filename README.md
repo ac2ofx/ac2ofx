@@ -18,7 +18,7 @@ You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2
 
 There are two versions
 * Offline/standalone Java version which requires Java to be installed.
-* [Online version](web.md)
+* [Online version](web.md#online-version)
 
 ## Prerequisite for standalone version
 You will need Java installed on your machine.

@@ -19,7 +19,7 @@ If you have any problems with accessing or using the site, please send me an ema
 
 ## Login
 * Username/password: ac2ofx/ac2ofx
-* Though it is a common username/password, each login will have its own session and data will be kept separatedly.
+* Though same username/password is used, each logging in will have its own session and data will be kept separatedly and will be deleted when you logout.
 
 ## To generate an OFX/QFX file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.

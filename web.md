@@ -11,15 +11,11 @@ It is a simple two-steps process
 * Then import the OFX/QFX file into your financial management program.
 
 ## Online version
-* URL: [https://app.ac2ofx.com/login](https://app.ac2ofx.com/login). Username/password: ac2ofx/ac2ofx
+* URL: [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
 * Offline version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Problems?
 If you have any problems with accessing or using the site, please send me an email at ac2ofx@gmail.com.
-
-## Login
-* Username/password: ac2ofx/ac2ofx
-* Though same username/password is used, each logging in will have its own session and data will be kept separatedly and will be deleted when you logout.
 
 ## To generate an OFX/QFX file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.

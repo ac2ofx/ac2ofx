@@ -65,7 +65,7 @@ Follow your financial management program instruction to import OFX/QFX.
 
 ## Help
 * Send email to ac2ofx@gmail.com.
-* Or log an [issue](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
+* Or [log an issue.](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 
 ### Trademarks notice
 

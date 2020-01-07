@@ -8,4 +8,4 @@ File -> Import -> Bank or Brokerage File (OFX, QFX) ...
 
 ![quicken-import.png](/quicken-import.png)
 
-Back to [ac2ofx home page](/)
+Back to [ac2ofx home page](/ac2ofx/)

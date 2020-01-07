@@ -25,7 +25,7 @@ You will need Java installed on your machine.
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
 ## Download ac2ofx standalone version
-* [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.RELEASE.zip)
+* [ac2ofx-1.0.4.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.RELEASE.zip)
 
 ## Install ac2ofx standalone version
 * Unzip ac2ofx-1.0.4.RELEASE.zip

@@ -62,6 +62,7 @@ Follow your financial management program instruction to import OFX/QFX.
 * [Moneydance](moneydance.md)
 * [Microsoft Money](msmoney.md)
 * [Expensify](https://docs.expensify.com/en/articles/1719939-personal-cards-import-via-csv)
+* [YNAB](https://www.youneedabudget.com/fbi/)
 
 ## Help
 * Send email to ac2ofx@gmail.com.

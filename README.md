@@ -36,8 +36,7 @@ java -jar ac2ofx-1.0.4.RELEASE-exec.jar
 ````
 
 ## Problems?
-* Take a quick look at the [FAQ](faq.md).
-* If you still need help, please send me an email at ac2ofx@gmail.com.
+* If you have issue downloading or starting the program, please send me an email at ac2ofx@gmail.com.
 
 ## Obtain a key
 * The cost is $12.99.
@@ -67,6 +66,7 @@ Follow your financial management program instruction to import OFX/QFX.
 * [YNAB](https://www.youneedabudget.com/fbi/)
 
 ## Help
+* Take a quick look at the [FAQ](faq.md).
 * Send email to ac2ofx@gmail.com.
 * Or [log an issue.](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 

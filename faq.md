@@ -10,7 +10,7 @@ See [this link](web.md#online-version)
 No, same key can be used for both version.
 
 ### Can I try the software without a key?
-Yes, the software (both Desktop and Online) are fully functional. In eval mode (no key), the output file is limited to just 5 transactions.
+Yes, the software (both Desktop and Online) is fully functional in eval mode (no key) but with one limitation: the output will be limited to just 5 transactions.
 
 ### How do you ensure my privacy for the Online version?
 * We use SSL to transport the data

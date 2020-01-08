@@ -12,11 +12,10 @@ It is a simple two-steps process
 
 ## Online version
 * URL: [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
-* Offline version: if you prefer an offline/standalone version, see [this note](README.md).
+* Desktop version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Problems?
-* Take a quick look at the [FAQ](faq.md).
-* If you still need help, please send me an email at ac2ofx@gmail.com.
+* If you have issue accessing the service, please send me an email at ac2ofx@gmail.com.
 
 ## To generate an OFX/QFX file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.
@@ -46,8 +45,9 @@ Follow your financial management program instruction to import OFX/QFX.
 * [YNAB](https://www.youneedabudget.com/fbi/)
 
 ## Help
+* Take a quick look at the [FAQ](faq.md).
 * Send email to ac2ofx@gmail.com.
-* Or log an issue at [https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
+* Or [log an issue.](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 
 ### Trademarks notice
 

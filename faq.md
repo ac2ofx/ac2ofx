@@ -20,3 +20,7 @@ Yes, the software (both Desktop and Online) are fully functional. In eval mode (
 ### How do I get help?
 Please send email to ac2ofx@gmail.com
 
+### Is the cost of the license one time or per year?
+The cost of the license is one time.
+
+

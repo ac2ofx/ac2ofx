@@ -3,7 +3,7 @@
 The Windows installer is currently in Beta.
 
 * The installer contains a copy of the JVM so you don't need to install Java separatedly.
-* The installer is NOT [code signed](https://en.wikipedia.org/wiki/Code_signing) ` so you will get a couple of extra warnings from the OS.
+* The installer is NOT [code signed](https://en.wikipedia.org/wiki/Code_signing) so you will get a couple of extra warnings from the OS.
 * Download: [ac2ofx-1.0.4.msi](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.msi)
 * Double-click on file ac2ofx-1.0.4.msi to start.
 * You will get the following warning

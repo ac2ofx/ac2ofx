@@ -38,6 +38,7 @@ Click Logout to logout. All files from current session will be deleted.
 ## To import OFX/QFX file
 Follow your financial management program instruction to import OFX/QFX.
 * [Quicken](quicken.md)
+* [quickbooks](quickbooks.md)
 * [Moneydance](moneydance.md)
 * [Microsoft Money](msmoney.md)
 * [Expensify](https://docs.expensify.com/en/articles/1719939-personal-cards-import-via-csv)

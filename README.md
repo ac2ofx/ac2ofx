@@ -59,6 +59,7 @@ If you have any problems with downloading or starting the program, please send m
 ## To import OFX/QFX file
 Follow your financial management program instruction to import OFX/QFX.
 * [Quicken](quicken.md)
+* [quickbooks](quickbooks.md)
 * [Moneydance](moneydance.md)
 * [Microsoft Money](msmoney.md)
 * [Expensify](https://docs.expensify.com/en/articles/1719939-personal-cards-import-via-csv)

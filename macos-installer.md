@@ -7,4 +7,4 @@ The MacOS installer is currently in Beta.
 * Do NOT just double-click file ac2ofx-1.0.4.pkg. See next step.
 * Right-click (or control-click) file ac2ofx-1.0.4.pkg and choose “Open” (see [this link](https://www.macworld.co.uk/how-to/mac/right-click-3610351/) if you are not sure how to right-click).
 * Click the “Open” button at the next dialog warning to launch the installer
-* Software wil be installed into your "Applictions" folder.
+* ac2ofx wil be installed into your "Applications" folder.

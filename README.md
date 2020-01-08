@@ -29,7 +29,7 @@ You will need Java installed on your machine. (Don't want to install Java separa
 ### Download Desktop version
 * [ac2ofx-1.0.4.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.RELEASE.zip)
 
-### Install Desktop version
+### Install Desktop jar file
 * Unzip ac2ofx-1.0.4.RELEASE.zip
 * Go to folder ac2ofx-1.0.4.RELEASE
 * Double-click on ac2ofx-1.0.4.RELEASE-exec.jar OR from command-line

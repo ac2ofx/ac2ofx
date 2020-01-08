@@ -18,7 +18,7 @@ You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2
 
 There are two versions
 * Desktop version (needs Java to be installed).
-*[Online version](web.md#online-version)
+* [Online version](web.md#online-version)
 
 ## Prerequisite for Desktop version
 You will need Java installed on your machine.

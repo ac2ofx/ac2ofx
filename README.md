@@ -16,7 +16,7 @@ You can download and eval the tool to see if it fits your need.
 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
-There are two versions. Same key will work for both versions.
+There are two versions.
 * Desktop version (requires Java to be installed).
 * [Online version](web.md#online-version)
 

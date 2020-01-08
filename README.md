@@ -23,7 +23,7 @@ There are two versions.
 ## Desktop version
 
 ### Prerequisite for Desktop version
-You will need Java installed on your machine.
+You will need Java installed on your machine. (Don't want to install Java separatedly? See (Alternate method using an installer)[#alternate-method-using-an-installer] below).
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
 ### Download Desktop version

@@ -15,7 +15,8 @@ It is a simple two-steps process
 * Offline version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Problems?
-If you have any problems with accessing or using the site, please send me an email at ac2ofx@gmail.com.
+* Take a quick look at the [FAQ](faq.md).
+* If you still need help, please send me an email at ac2ofx@gmail.com.
 
 ## To generate an OFX/QFX file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.

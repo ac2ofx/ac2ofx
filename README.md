@@ -20,14 +20,16 @@ There are two versions.
 * Desktop version (requires Java to be installed).
 * [Online version](web.md#online-version)
 
-## Prerequisite for Desktop version
+## Desktop version
+
+### Prerequisite for Desktop version
 You will need Java installed on your machine.
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
-## Download ac2ofx Desktop version
+### Download Desktop version
 * [ac2ofx-1.0.4.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.RELEASE.zip)
 
-## Install ac2ofx Desktop version
+### Install Desktop version
 * Unzip ac2ofx-1.0.4.RELEASE.zip
 * Go to folder ac2ofx-1.0.4.RELEASE
 * Double-click on ac2ofx-1.0.4.RELEASE-exec.jar OR from command-line

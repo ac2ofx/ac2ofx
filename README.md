@@ -36,6 +36,9 @@ You will need Java installed on your machine.
 ````
 java -jar ac2ofx-1.0.4.RELEASE-exec.jar
 ````
+### Alternate method of installing using an installer
+If you prefer to use an installer, see the the following instruction
+* For [MacOS](macos-installer.md)
 
 ## Problems?
 * If you have issue downloading or starting the program, please send me an email at ac2ofx@gmail.com.

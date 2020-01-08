@@ -16,3 +16,5 @@ File -> Import -> From Web Connect...
 ![quickbooks-import.png](/quickbooks-import.png)
 
 See also: [QuickBooks Support article](https://quickbooks.intuit.com/learn-support/en-us/import-transactions/manually-upload-transactions-into-quickbooks-online/00/187501)
+
+Back to [ac2ofx home page](/ac2ofx/)

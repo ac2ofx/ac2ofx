@@ -23,4 +23,7 @@ Please send email to ac2ofx@gmail.com
 ### Is the cost of the license one time or per year?
 The cost of the license is one time.
 
-
+### Do you have an installer?
+If you prefer to use an installer, see the the following instruction
+* For [MacOS](macos-installer.md)
+* For [Windows](win-installer.md)

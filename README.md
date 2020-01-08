@@ -40,7 +40,7 @@ If you have any problems with downloading or starting the program, please send m
 
 ## Obtain a key
 * The cost is $12.99.
-* Send email to ac2ofx@gmail.com.
+* Send email to ac2ofx@gmail.com to request a key.
 * To install the key, simply drag-and-drop file license.txt file onto the ac2ofx window. 
 
 ## To download Apple Card PDF statements

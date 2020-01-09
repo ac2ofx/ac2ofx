@@ -12,6 +12,10 @@ No, same key can be used for both version.
 ### Can I try the software without a key?
 Yes, the software (both Desktop and Online) is fully functional in eval mode (no key) but with one limitation: the output will be limited to just 5 transactions.
 
+### How do you ensure my privacy for the Desktop version?
+* Everything resides on your computer. No network access.
+* We do not collect any personal information.
+
 ### How do you ensure my privacy for the Online version?
 * We use SSL to transport the data
 * We remove all files once you are done (logout).

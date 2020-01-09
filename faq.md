@@ -31,3 +31,6 @@ The cost of the license is one time.
 If you prefer to use an installer, see the the following instruction
 * For [MacOS](macos-installer.md)
 * For [Windows](win-installer.md)
+
+
+Back to [ac2ofx home page](/ac2ofx/)

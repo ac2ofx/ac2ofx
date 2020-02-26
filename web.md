@@ -1,4 +1,4 @@
-## Apple Card spending history as OFX/QFX file
+## Apple Card spending history as OFX/QFX/QBO file
 "Can I import my Apple Card transactions into my financial management program?".
 
 Yes, you can.
@@ -7,8 +7,8 @@ ac2ofx makes it possible to import your Apple Card transactions into your financ
 
 It is a simple two-steps process
 
-* Use ac2ofx to convert the "Monthly PDF Statement" into an OFX/QFX file.
-* Then import the OFX/QFX file into your financial management program.
+* Use ac2ofx to convert the "Monthly PDF Statement" into an OFX/QFX/QBO file.
+* Then import the OFX/QFX/QBO file into your financial management program.
 
 ## Online version
 * URL: [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
@@ -17,9 +17,9 @@ It is a simple two-steps process
 ## Problems?
 * If you have issue accessing the service, please send me an email at ac2ofx@gmail.com.
 
-## To generate an OFX/QFX file
+## To generate an OFX/QFX/QBO file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.
-* In eval mode (no license key), we generate a fully functional OFX/QFX file, so that you can evaluate to see if this tool fits your need (with a limit of total 5 transactions) If you are interested in purchase a license key, please send email to ac2ofx@gmail.com.
+* In eval mode (no license key), we generate a fully functional OFX/QFX/QBO file, so that you can evaluate to see if this tool fits your need (with a limit of total 5 transactions) If you are interested in purchase a license key, please send email to ac2ofx@gmail.com.
 * If you have a license key, use Browse… button to select your license.txt file and click on the Convert button to activate the key.
 
 ## Logout
@@ -35,8 +35,8 @@ Click Logout to logout. All files from current session will be deleted.
 * Choose the month of the statement you want
 * Select “Download PDF Statement”
 
-## To import OFX/QFX file
-Follow your financial management program instruction to import OFX/QFX.
+## To import OFX/QFX/QBO file
+Follow your financial management program instruction to import OFX/QFX/QBO.
 * [Quicken](quicken.md)
 * [quickbooks](quickbooks.md)
 * [Moneydance](moneydance.md)

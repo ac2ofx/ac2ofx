@@ -1,5 +1,8 @@
 ## Import QBO to QuickBooks
 
+Since version 1.0.5, ac2ofx can generate QBO file. Select the appropriate output checkbox at the bottom of the main window.
+
+For version 1.0.4 and earlier:
 First rename the qfx file to qbo. For example
 ````
 mv December2019.qfx December2019.qbo 

@@ -27,14 +27,14 @@ You will need Java installed on your machine. (Don't want to install Java separa
 * AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
 
 ### Download Desktop version
-* [ac2ofx-1.0.4.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.4.RELEASE.zip)
+* [ac2ofx-1.0.5.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.5.RELEASE.zip)
 
 ### Install Desktop jar file
-* Unzip ac2ofx-1.0.4.RELEASE.zip
-* Go to folder ac2ofx-1.0.4.RELEASE
-* Double-click on ac2ofx-1.0.4.RELEASE-exec.jar OR from command-line
+* Unzip ac2ofx-1.0.5.RELEASE.zip
+* Go to folder ac2ofx-1.0.5.RELEASE
+* Double-click on ac2ofx-1.0.5.RELEASE-exec.jar OR from command-line
 ````
-java -jar ac2ofx-1.0.4.RELEASE-exec.jar
+java -jar ac2ofx-1.0.5.RELEASE-exec.jar
 ````
 
 ### Alternate method using an installer

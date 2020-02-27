@@ -12,8 +12,8 @@ It is a simple two-steps process
 
 ## Online version
 * URL: 
-  ** [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
-  ** OR [https://ac01.apps.ac2ofx.com/home](https://ac01.apps.ac2ofx.com/home). 
+ * [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
+ * OR [https://ac01.apps.ac2ofx.com/home](https://ac01.apps.ac2ofx.com/home). 
 * Desktop version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Problems?

@@ -11,7 +11,9 @@ It is a simple two-steps process
 * Then import the OFX/QFX/QBO file into your financial management program.
 
 ## Online version
-* URL: [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
+* URL: 
+  ** [https://app.ac2ofx.com/home](https://app.ac2ofx.com/home). 
+  ** OR [https://ac01.apps.ac2ofx.com/home](https://ac01.apps.ac2ofx.com/home). 
 * Desktop version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Problems?

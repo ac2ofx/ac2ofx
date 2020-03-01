@@ -16,6 +16,9 @@ You can download and eval the tool to see if it fits your need.
 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
+[![](http://img.youtube.com/vi/gDGWYvJEBzw/0.jpg)](http://www.youtube.com/watch?v=gDGWYvJEBzw "Importing Apple Card transactions into Quicken")
+
+
 There are two versions.
 * Desktop version (requires Java to be installed).
 * [Online version](web.md#online-version)

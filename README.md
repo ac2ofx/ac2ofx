@@ -16,6 +16,8 @@ You can download and eval the tool to see if it fits your need.
 
 You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
 
+A short video clip (screen capture, no sound) showing how quick and simple it is to convert and import Apple Card transactions into Quicken
+
 [![](http://img.youtube.com/vi/gDGWYvJEBzw/0.jpg)](http://www.youtube.com/watch?v=gDGWYvJEBzw "Importing Apple Card transactions into Quicken")
 
 

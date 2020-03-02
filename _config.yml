@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: ac2ofx - OFX/QFX/QBO Converter
-description: A tool to convert Apple Card Statement to OFX/QFX
+description: A tool to convert Apple Card Statement to OFX/QFX/QBO
 github:
   is_project_page: false

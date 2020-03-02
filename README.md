@@ -3,9 +3,7 @@
 
 Yes, you can.
 
-ac2ofx provides a solution for importing your Apple Card transactions into your financial management program such as Quicken, Moneydance, Microsoft Money ...
-
-It is a simple two-steps process
+ac2ofx provides a solution for importing your Apple Card transactions into your financial management program such as Quicken, Moneydance, Microsoft Money ... It is simple, easy, fast. It just works.
 
 * Use ac2ofx to convert the "Monthly PDF Statement" into an OFX/QFX/QBO file.
 * Then import the OFX/QFX/QBO file into your financial management program.

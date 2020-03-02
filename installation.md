@@ -29,6 +29,9 @@ If you prefer to use an installer, see the the following instruction
 ## Problems?
 * If you have issue downloading or starting the program, please send me an email at ac2ofx@gmail.com.
 
+## Next step
+* [Obtain a key](/ac2ofx/#obtain-a-key)
+
 ### Trademarks notice
 
 All product names, trademarks and registered trademarks are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.

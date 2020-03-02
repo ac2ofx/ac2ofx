@@ -1,3 +1,5 @@
+# Installation
+
 There are two versions.
 * Desktop version (requires Java to be installed).
 * [Online version](web.md#online-version)

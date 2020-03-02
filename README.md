@@ -29,6 +29,7 @@ Click on the image below to start a short video clip (screen capture, no sound) 
 * The cost is $12.99.
 * Send email to ac2ofx@gmail.com to request a key.
 * To install the key, simply drag-and-drop file license.txt file onto the ac2ofx window. 
+* Notes: If you just want to try it out, you don't need a key. In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX/QFX/QBO file (5 transations).**
 
 ## To download Apple Card PDF statements
 * Open the Wallet app on iPhone

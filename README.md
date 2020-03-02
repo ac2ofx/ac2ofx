@@ -70,13 +70,13 @@ If you prefer to use an installer, see the the following instruction
 
 ## To import OFX/QFX/QBO file
 Follow your financial management program instruction to import OFX/QFX/QBO.
-* [Quicken](quicken.md)
-* [quickbooks](quickbooks.md)
-* [Moneydance](moneydance.md)
-* [Microsoft Money](msmoney.md)
-* [Expensify](https://docs.expensify.com/en/articles/1719939-personal-cards-import-via-csv)
-* [YNAB](https://www.youneedabudget.com/fbi/)
 * [Banktivity](https://www.iggsoftware.com/support/articles/ibank-5/how-to-use-manualweb-downloads-in-ibank/#:~:text=)
+* [Expensify](https://docs.expensify.com/en/articles/1719939-personal-cards-import-via-csv)
+* [Microsoft Money](msmoney.md)
+* [Moneydance](moneydance.md)
+* [quickbooks](quickbooks.md)
+* [Quicken](quicken.md)
+* [YNAB](https://www.youneedabudget.com/fbi/)
 
 ## Help
 * Take a quick look at the [FAQ](faq.md).

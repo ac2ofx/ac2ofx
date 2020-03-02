@@ -42,7 +42,9 @@ Click on the image below to start a short video clip (screen capture, no sound) 
 * Drag-and-drop your PDF statement file onto the ac2ofx window.
 * ![Tool Window Image](/image01.png)
 * A new OFX/QFX/QBO file will be generated and saved in the same folder as the PDF file.
-* For example, if the PDF file is named December-2019.pdf, then the OFX/QFX/QBO file will be named December-2019.ofx and December-2019.qfx
+* For example, if the PDF file is named December-2019.pdf, then the OFX/QFX/QBO file will be named
+  * December-2019.ofx 
+  * and December-2019.qfx
 
 ## To import OFX/QFX/QBO file
 Follow your financial management program instruction to import OFX/QFX/QBO.

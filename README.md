@@ -20,35 +20,12 @@ Click on the image below to start a short video clip (screen capture, no sound) 
 
 [![](http://img.youtube.com/vi/gDGWYvJEBzw/0.jpg)](http://www.youtube.com/watch?v=gDGWYvJEBzw "Importing Apple Card transactions into Quicken")
 
-
-There are two versions.
-* Desktop version (requires Java to be installed).
-* [Online version](web.md#online-version)
-
-## Desktop version
-
-### Prerequisite for Desktop version
-You will need Java installed on your machine. (Don't want to install Java separatedly? See [Alternate method using an installer](#alternate-method-using-an-installer) below).
-* AdoptOpenJDK.net: [https://adoptopenjdk.net/](https://adoptopenjdk.net/) 
-
-### Download Desktop version
-* [ac2ofx-1.0.5.RELEASE.zip](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/downloads/ac2ofx-1.0.5.RELEASE.zip)
-
-### Install Desktop jar file
-* Unzip ac2ofx-1.0.5.RELEASE.zip
-* Go to folder ac2ofx-1.0.5.RELEASE
-* Double-click on ac2ofx-1.0.5.RELEASE-exec.jar OR from command-line
-````
-java -jar ac2ofx-1.0.5.RELEASE-exec.jar
-````
-
-### Alternate method using an installer
-If you prefer to use an installer, see the the following instruction
-* For [MacOS](macos-installer.md)
-* For [Windows](win-installer.md)
-
-## Problems?
-* If you have issue downloading or starting the program, please send me an email at ac2ofx@gmail.com.
+1. [Installation](installation.md)
+2. [Obtain a key](#obtain-a-key)
+3. [To download Apple Card PDF statements](#to-download-apple-card-pdf-statements)
+4. [To generate an OFX/QFX/QBO file using Desktop version](#to-generate-an-ofxqfxqbo-file-using-desktop-version)
+5. [To import OFX/QFX/QBO file](#to-import-ofxqfxqbo-file)
+6. [Help](#help)
 
 ## Obtain a key
 * The cost is $12.99.

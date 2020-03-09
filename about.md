@@ -22,3 +22,4 @@ Thank you for your support,
 
 Hung/Amanda/Chris
 
+![Image of Hung/Amanda/Chris](about.jpg)

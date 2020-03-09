@@ -23,3 +23,5 @@ Thank you for your support,
 Hung/Amanda/Chris
 
 ![Image of Hung/Amanda/Chris](about.jpg)
+
+Back to [ac2ofx home page](/ac2ofx/)

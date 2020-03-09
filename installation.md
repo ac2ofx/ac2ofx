@@ -27,7 +27,7 @@ If you prefer to use an installer, see the the following instruction
 * For [Windows](win-installer.md)
 
 ## Problems?
-* If you have issue downloading or starting the program, please send me an email at ac2ofx@gmail.com.
+* If you have issue downloading or starting the program, please send me an email at <ac2ofx@gmail.com>.
 
 ## Next step
 * [Obtain a key](/ac2ofx/#obtain-a-key)

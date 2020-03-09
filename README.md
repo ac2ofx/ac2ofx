@@ -12,7 +12,7 @@ You can download and eval the tool to see if it fits your need.
 
 **In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX/QFX/QBO file (5 transations).**
 
-You can obtain a key to remove this limit. The cost is $12.99. Send email to ac2ofx@gmail.com
+You can obtain a key to remove this limit. The cost is $12.99. Send email to <ac2ofx@gmail.com>
 
 Click on the image below to start a short video clip (screen capture, no sound) showing how quick and simple it is to convert and import Apple Card transactions into Quicken
 
@@ -27,7 +27,7 @@ Click on the image below to start a short video clip (screen capture, no sound) 
 
 ## Obtain a key
 * The cost is $12.99.
-* Send email to ac2ofx@gmail.com to request a key.
+* Send email to <ac2ofx@gmail.com> to request a key.
 * To install the key, simply drag-and-drop file license.txt file onto the ac2ofx window. 
 * Notes: If you just want to try it out, you don't need a key. In eval mode, ac2ofx is fully functional but limits the number of transactions in the OFX/QFX/QBO file (5 transations).
 
@@ -58,7 +58,7 @@ Follow your financial management program instruction to import OFX/QFX/QBO.
 
 ## Help
 * Take a quick look at the [FAQ](faq.md).
-* Send email to ac2ofx@gmail.com.
+* Send email to <ac2ofx@gmail.com>.
 * Or [log an issue.](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 
 ### Trademarks notice

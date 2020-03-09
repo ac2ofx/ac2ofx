@@ -17,18 +17,18 @@ It is a simple two-steps process
 * Desktop version: if you prefer an offline/standalone version, see [this note](README.md).
 
 ## Problems?
-* If you have issue accessing the service, please send me an email at ac2ofx@gmail.com.
+* If you have issue accessing the service, please send me an email at <ac2ofx@gmail.com>.
 
 ## To generate an OFX/QFX/QBO file
 * Use Browse… button to select a PDF file to be converted to QFX/QFX.
-* In eval mode (no license key), we generate a fully functional OFX/QFX/QBO file, so that you can evaluate to see if this tool fits your need (with a limit of total 5 transactions) If you are interested in purchase a license key, please send email to ac2ofx@gmail.com.
+* In eval mode (no license key), we generate a fully functional OFX/QFX/QBO file, so that you can evaluate to see if this tool fits your need (with a limit of total 5 transactions) If you are interested in purchase a license key, please send email to <ac2ofx@gmail.com>.
 * If you have a license key, use Browse… button to select your license.txt file and click on the Convert button to activate the key.
 
 ## Logout
 Click Logout to logout. All files from current session will be deleted.
 
 ## Obtain a key
-* Send email to ac2ofx@gmail.com.
+* Send email to <ac2ofx@gmail.com>.
 
 ## To download Apple Card PDF statements
 * Open the Wallet app on iPhone
@@ -48,7 +48,7 @@ Follow your financial management program instruction to import OFX/QFX/QBO.
 
 ## Help
 * Take a quick look at the [FAQ](faq.md).
-* Send email to ac2ofx@gmail.com.
+* Send email to <ac2ofx@gmail.com>.
 * Or [log an issue.](https://bitbucket.org/hleofxquotesteam/dist-applecardstmt/issues)
 
 ### Trademarks notice

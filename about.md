@@ -1,6 +1,6 @@
 ## About us
 
-We are a team of 3: father, daughter and son.
+We are a team of 3: dad, daughter and son.
 
 Hung (dad) is a software engineer in Silicon Valley. Amanda and Chris are juniors in high school.
 

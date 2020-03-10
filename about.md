@@ -1,6 +1,6 @@
 ## About us
 
-Hi,
+Hi there,
 
 We are a team of three: father (Hung), daughter (Amanda) and son (Chris).
 

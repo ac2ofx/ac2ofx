@@ -1,15 +1,17 @@
 ## About us
 
-We are a team of 3: dad, daughter and son.
+Hi,
 
-Hung (dad) is a software engineer in Silicon Valley. Amanda and Chris are juniors in high school.
+We are a team of three: father (Hung), daughter (Amanda) and son (Chris).
 
-(From Hung) - This product started out just as a one week-end project for personal use.
+Hung works as a software engineer in Silicon Valley. Amanda and Chris are juniors in high school.
+
+This product started out as a one week-end project for personal use.
 Then I got a few emails inquiring about it. Soon it became quite clear that I need to treat this as a release product: 
 it needs to be built, QA'ed, packaged and released properly. I also need to create a web site, getting the words out,
 handling customer emails ... Then it dawned on me that it would be a perfect vehicle to help introducing my
 daughter and son to what it likes to create a product, market it, support it and interact with paying customers. 
-So I got them involved.
+And that is how Amanda and Chris got involved.
 
 We strive to make you a happy customer.
 

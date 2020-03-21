@@ -24,6 +24,7 @@ Click on the image below to start a short video clip (screen capture, no sound) 
 4. [To generate an OFX/QFX/QBO file using Desktop version](#to-generate-an-ofxqfxqbo-file-using-desktop-version)
 5. [To import OFX/QFX/QBO file](#to-import-ofxqfxqbo-file)
 6. [Help](#help), [FAQ](faq.md)
+6. [About us](about.md)
 
 ## Obtain a key
 * The cost is $12.99.

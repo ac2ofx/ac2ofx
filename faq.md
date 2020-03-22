@@ -36,6 +36,6 @@ If you prefer to use an installer, see the the following instruction
 * For [Windows](win-installer.md)
 
 ### About us
-* [About us](about.md)
+* We are a team of three: father (Hung), daughter (Amanda) and son (Chris) [(more ...)](about.md)
 
 Back to [ac2ofx home page](/ac2ofx/)

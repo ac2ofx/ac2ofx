@@ -35,6 +35,10 @@ If you prefer to use an installer, see the the following instruction
 * For [MacOS](macos-installer.md)
 * For [Windows](win-installer.md)
 
+### Error: Quicken is unable to update this account because ...
+If you are seeing error: "Quicken is unable to update this account because Web Connect support for your financial institution has been either temporarily, or permanently discontinued [CC-885]” when importing #AppleCard transactions
+using Apple Card ofx/qfx file, we can help. Our software generates ofx/qfx that will work with Quicken.
+
 ### About us
 * We are a team of three: father (Hung), daughter (Amanda) and son (Chris) [(more ...)](about.md)
 
